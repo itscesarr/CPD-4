@@ -1,4 +1,4 @@
-Client Deliverable 3 - SI 339
+Final Client Deliverable - SI 339
 
 Welcome to the repository for Client Deliverable 3 for SI 339. This project is focused on creating a user-friendly and accessible web solution for Ann Arbor Skyline High School Cross Country. By leveraging modern web development practices, we address specific needs and usability issues through methods of accessibility.
 
